@@ -21,11 +21,8 @@ int main() {
 
     scanf("%100s", string_a);
 
-
-  
     scanf("%100s", string_b);
 
-  
     evaluasi_string(string_a, string_b);
 
     return 0;
